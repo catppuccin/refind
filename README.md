@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/catppuccin/template">App</a>
+	Catppuccin for <a href="https://github.com/catppuccin/template">rEFInd</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -36,19 +36,15 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
-
-## 🙋 FAQ (optional)
-
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
+1. Locate your rEFInd installation folder (e.g. /boot/EFI/refind)
+2. Create a folder called `themes` inside it, if it doesn't already exist
+3. Clone this repo into the `themes` folder
+4. Add `include themes/refind-ambience/flavour.conf` to `refind.conf` (replace flavour with latte/frappe/macchiato/mocha)
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [fapfaff](https://github.com/fapfaff)
+- [refind-ambience](https://github.com/lukechilds/refind-ambience)
 
 &nbsp;
 
