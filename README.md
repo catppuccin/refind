@@ -39,7 +39,7 @@
 1. Locate your rEFInd installation folder (e.g. /boot/EFI/refind)
 2. Create a folder called `themes` inside it, if it doesn't already exist
 3. Clone this repo into the `themes` folder
-4. Add `include themes/refind-ambience/flavour.conf` to `refind.conf` (replace flavour with latte/frappe/macchiato/mocha)
+4. Add `include themes/refind-catppuccin/flavour.conf` to `refind.conf` (replace flavour with latte/frappe/macchiato/mocha)
 
 ## 💝 Thanks to
 
