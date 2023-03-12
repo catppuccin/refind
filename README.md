@@ -1,14 +1,14 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/catppuccin/template">rEFInd</a>
+	Catppuccin for <a href="https://github.com/catppuccin/refind">rEFInd</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/refind/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/refind?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/refind/issues"><img src="https://img.shields.io/github/issues/catppuccin/refind?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/refind/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/refind?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 1. Locate your rEFInd installation folder (e.g. /boot/EFI/refind)
 2. Create a folder called `themes` inside it, if it doesn't already exist
 3. Clone this repo into the `themes` folder
-4. Add `include themes/refind-catppuccin/flavour.conf` to `refind.conf` (replace flavour with latte/frappe/macchiato/mocha)
+4. Add `include themes/refind/flavour.conf` to `refind.conf` (replace flavour with latte/frappe/macchiato/mocha)
 
 ## 💝 Thanks to
 
